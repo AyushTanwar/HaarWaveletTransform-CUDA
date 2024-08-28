@@ -1,0 +1,3 @@
+/home/vipul/Downloads/ayush/Haar-Wavelet-Image-Compression/build/CMakeFiles/CMakeTarget.dir
+/home/vipul/Downloads/ayush/Haar-Wavelet-Image-Compression/build/CMakeFiles/edit_cache.dir
+/home/vipul/Downloads/ayush/Haar-Wavelet-Image-Compression/build/CMakeFiles/rebuild_cache.dir
